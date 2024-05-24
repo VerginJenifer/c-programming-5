@@ -26,7 +26,7 @@ int main()
 ## OUTPUT:
 
 ![image](https://github.com/VerginJenifer/c-programming-5/assets/136251012/883c0abd-e606-4b7a-b811-b1d230cc13d0)
-![image](https://github.com/VerginJenifer/c-programming-5/assets/136251012/883c0abd-e606-4b7a-b811-b1d230cc13d0)
+
 ## RESULT:
 Thus, a program to add the two numbers and print the result in percentage was executed successfully.
 
